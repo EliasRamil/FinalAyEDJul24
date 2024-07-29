@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1722255664 source:d:\2024_unla\ayed_2024\ramileliasfinalayed\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1722255616 d:\2024_unla\ayed_2024\ramileliasfinalayed\lista.h
+	<stdbool.h>
+
+1722262947 source:d:\2024_unla\ayed_2024\ramileliasfinalayed\aeropuerto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Aeropuerto.h"
+	"Lista.h"
+
+1722261635 d:\2024_unla\ayed_2024\ramileliasfinalayed\aeropuerto.h
+	"Avion.h"
+
+1722262866 d:\2024_unla\ayed_2024\ramileliasfinalayed\avion.h
+	"Pasajero.h"
+	"Destino.h"
+
+1722260306 d:\2024_unla\ayed_2024\ramileliasfinalayed\pasajero.h
+
+1722263264 source:d:\2024_unla\ayed_2024\ramileliasfinalayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Aeropuerto.h"
+
+1722262863 source:d:\2024_unla\ayed_2024\ramileliasfinalayed\pasajero.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pasajero.h"
+
+1722263051 source:d:\2024_unla\ayed_2024\ramileliasfinalayed\avion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Avion.h"
+	"Lista.h"
+
+1722262480 d:\2024_unla\ayed_2024\ramileliasfinalayed\destino.h
+
+1722262477 source:d:\2024_unla\ayed_2024\ramileliasfinalayed\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Destino.h"
+
